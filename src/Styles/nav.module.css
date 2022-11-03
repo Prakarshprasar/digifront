@@ -1,0 +1,18 @@
+.navmain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: 700;
+    background-color: orangered;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+}
+.navmain>p{
+    padding: 10px 15px;
+}
+.navmain>p:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}

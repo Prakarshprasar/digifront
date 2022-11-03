@@ -1,0 +1,40 @@
+.none{
+    display: none;
+}
+.showdiv{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+.showdiv>div{
+    padding: 10px;
+    border: 1px solid gray;
+}
+.showdiv>div:hover{
+    cursor: pointer;
+    background-color: rgb(226, 223, 223);
+}
+.btndiv{
+    margin-top: 20px;
+    text-align: center;
+}
+.ques{
+    width: 90%;
+    border: 2px solid gray;
+    margin: auto;
+    margin-top: 30px;
+    padding: 25px;
+}
+.red1{
+    background-color: red;
+}
+.red2{
+    background-color: red;
+}
+.red3{
+    background-color: red;
+}
+.main{
+    padding: 100px;
+}

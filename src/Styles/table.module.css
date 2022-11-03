@@ -1,0 +1,21 @@
+th{
+    border: 1px solid gray;
+    padding: 6px;
+    background-color: rgb(199, 196, 196);
+    
+}
+td{
+    border: 1px solid gray;
+    padding: 6px;
+    margin: auto;
+    
+}
+.main{
+    padding: 100px;
+}
+tr{
+    text-align: center;
+    
+    
+    
+}
